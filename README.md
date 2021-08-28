@@ -1,6 +1,6 @@
 ## I'm a YouTuber, Twitcher, Musician, TableTennis Player and Apprentice Developer!
 - 🌱 I’m currently learning to "Liceo Musicale" (AL)
-- 👯 I’collaborate whit MultiCore Network
+- 👯 I collaborate whit MultiCore Network
 - 💬 Ask me about: Minecraft Developer and DataPacker
 -->
 <br />
