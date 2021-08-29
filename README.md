@@ -21,6 +21,7 @@
 - Landing PAGE: [linktre.e]📘
 
 <br />
+
 <h3 align="left">Connect with my Social:</h3>
 <p align="left">
 <a href="https://fb.com/adrytechyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrytechyt" height="30" width="40" /></a>
@@ -28,6 +29,9 @@
 <a href="https://www.youtube.com/c/adrytech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adrytech" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/yDvJ4pYmuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yDvJ4pYmuq" height="30" width="40" /></a>
 </p>
+
+<br />
+
 <h3 align="left">Languages and Tools:</h3>
 
 [<img align="left" alt="Minecraft" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />](https://github.com/topics/minecraft)
@@ -37,6 +41,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript)
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/)
+
 
 
 <br />
