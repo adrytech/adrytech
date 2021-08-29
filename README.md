@@ -2,6 +2,7 @@
 - 🌱 I am learning Java and JavaScript for Minecraft!
 - 👯 I collaborate with [MultiCore Network]
 - 💥 I develop datapack, mod, plugin and script for Minecraft!
+- 📜 My passions are: Table tennis🏓 and music🎹🎷
 - 💬 How to contact me?
   - adrytechbusiness@gmail.com 📗
   - [Telegram] 📕
