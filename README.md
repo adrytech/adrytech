@@ -6,14 +6,15 @@
   - adrytechbusiness@gmail.com 📗
   - [Telegram] 📕
   - Ds: @_AdryTech_#6383 📘
+<br />
 -->
 <br />
+## Connect with my social:
 
-### Connect with my social:
-
-Link: [linktre.e]📘
+- Landing PAGE: [linktre.e]📘
 
 <br />
 <br />
 
 [linktre.e]: https://linktr.ee/adrytech
+[telegram]: https://t.me/AdryTechYT
