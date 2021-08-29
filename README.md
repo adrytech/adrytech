@@ -5,7 +5,6 @@
 - 💬 How to contact me?
   - adrytechbusiness@gmail.com 📗
   - [Telegram] 📕
-  - Ds: @_AdryTech_#6383 📘
 
 <br />
 
