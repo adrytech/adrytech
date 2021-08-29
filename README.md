@@ -1,7 +1,11 @@
 ## I'm a YouTuber, Twitcher, Musician, TableTennis Player and Apprentice Developer!
-- 🌱 I’m currently learning to "Liceo Musicale" (AL)
-- 👯 I collaborate whit MultiCore Network
-- 💬 Ask me about: Minecraft Developer and DataPacker
+- 🌱 I am learning Java and JavaScript for Minecraft!
+- 👯 I collaborate with @MultiCore Network
+- 💥 I develop datapack, mod, plugin and script for Minecraft!
+- 💬 How to contact me?
+-- Email: adrytechbusiness@gmail.com
+-- [Telegram]
+-- Discord: _AdryTech_#6383
 -->
 <br />
 
@@ -19,3 +23,4 @@
 [instagram]:https://www.twitch.tv/adrytechyt
 [discord]: https://discord.gg/QUFyWpbMre
 [twitch]: https://www.twitch.tv/adrytechyt
+[telegram]: https://t.me/AdryTechYT
