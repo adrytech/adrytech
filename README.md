@@ -16,7 +16,7 @@
 
 <br />
 
-### Connect with my social:
+### 🖇️ Connect with my social:
 
 - Landing PAGE: [linktre.e]📘
 
