@@ -16,11 +16,10 @@
 - adrytechbusiness@gmail.com 📗
 - [Telegram] 📕
 
-<br />
 
 <br />
 
-<h3 align="left">Connect with my Social:</h3>
+<h3 align="left">🔥 Connect with my Social:</h3>
 <p align="left">
 <a href="https://fb.com/adrytechyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrytechyt" height="30" width="40" /></a>
 <a href="https://instagram.com/adrytech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrytech" height="30" width="40" /></a>
@@ -30,7 +29,7 @@
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⛏️ Languages and Tools:</h3>
 
 [<img align="left" alt="Minecraft" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />](https://github.com/topics/minecraft)
 [<img align="left" alt="Scarpet" width="26px" src="https://raw.githubusercontent.com/gnembon/fabric-carpet/master/src/main/resources/assets/carpet/icon.png" />](https://github.com/gnembon/scarpet)
