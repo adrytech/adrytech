@@ -1,8 +1,8 @@
 ## ✌️HELLO HERE! 
 ### I'm [@adrytech]: YouTuber, Twitcher and Apprentice Developer ‼️
-- 🌱 I am learning Java and JavaScript for Minecraft!
+- 🌱 I am learning Java and JavaScript, mod, plugin and script for Minecraft!!
 - 👯 I collaborate with [MultiCore Network]
-- 💥 I develop datapack, mod, plugin and script for Minecraft!
+- 💥 I develop quite well DataPackfor Minecraft (Java Edition)
 - 📜 My passions are: Table tennis🏓 and music🎹🎷
 - 💬 How to contact me?
   - adrytechbusiness@gmail.com 📗
