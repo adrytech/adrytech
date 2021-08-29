@@ -1,4 +1,5 @@
-## ✌️HELLO HERE! I'm a YouTuber, Twitcher and Apprentice Developer ‼️
+## ✌️HELLO HERE! 
+### I'm a YouTuber, Twitcher and Apprentice Developer ‼️
 - 🌱 I am learning Java and JavaScript for Minecraft!
 - 👯 I collaborate with [MultiCore Network]
 - 💥 I develop datapack, mod, plugin and script for Minecraft!
