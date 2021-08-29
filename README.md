@@ -7,7 +7,8 @@
   - Table Tennis: I play this sport competitively 🏓
   - Music: I study music since six years and I play Piano 🎹 and Tenor Sax 🎷
   - Informatics: In fact I have opened an inherent YouTube channel 🔻
-- 📘 For other Info: [linktre.e] --> My Landing Pagw
+
+- 📘 For other Info: [linktre.e] --> My Landing Page  
 
 <br />
 
