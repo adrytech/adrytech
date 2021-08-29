@@ -3,9 +3,9 @@
 - 👯 I collaborate with @MultiCore Network
 - 💥 I develop datapack, mod, plugin and script for Minecraft!
 - 💬 How to contact me?
- - adrytechbusiness@gmail.com
- - [Telegram]
- - Ds: _AdryTech_#6383
+  - adrytechbusiness@gmail.com
+  - [Telegram]
+  - Ds: _AdryTech_#6383
 <br />
 -->
 <br />
